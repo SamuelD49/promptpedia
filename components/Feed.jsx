@@ -89,7 +89,7 @@ const Feed = () => {
       ) : (
         <PromptCardList data={allPosts} handleTagClick={handleTagClick} />
       )}
-    </section>
+    </section> 
   );
 };
 
